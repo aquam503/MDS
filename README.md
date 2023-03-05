@@ -30,6 +30,11 @@ See parameter description.
 - PI2 in our paper: `--agent PI2`
 - REPS in our paper: `--agent REPS`
 
+after use : 'python comparaison.py'
+it displays this :
+![Figure_1](https://user-images.githubusercontent.com/103253339/222973983-891d4244-33c8-45e1-bbba-46314171dd81.png)
+
+
 ### Output file
 Above files are created in the output directory:
 - args.txt: Run arguments.
