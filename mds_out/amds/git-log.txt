@@ -1,0 +1,19 @@
+commit 7d5da09c039571cef2db20475c03e13511148b5a
+Author: Megumi Miyashita <penguin.9922@gmail.com>
+Date:   Wed May 22 18:14:24 2019 +0900
+
+    Update requirements.txt
+
+commit 0ed5783496f830a9c92d634310a16bb11ec81e09
+Author: Megumi Miyashita <penguin.9922@gmail.com>
+Date:   Wed May 22 17:55:06 2019 +0900
+
+    Update README.md
+    
+    To more clearly understand the correspondence between the code and our paper
+
+commit 042ddb621e7cd28ee0c6da7fed4e55e9c26aebf5
+Author: Megumi Miyashita <penguin.9922@gmail.com>
+Date:   Fri Mar 30 02:50:15 2018 +0900
+
+    First commit

@@ -1,0 +1,1 @@
+{"outdir": "mds_out", "agent": "PI2", "r_normalize": false, "r_gain": 100000000, "env": "Arm", "n_updates": 50, "annealing": false, "std": 10.0, "n_dims": 2, "n_bfs": 10, "n_reps": 10, "duration": 0.5, "dt": 0.01, "render": false, "plot": null, "plotdir": null, "no_fig": false, "seed": null}
